@@ -5,3 +5,8 @@ theme = "PaperMod"
 
 [params]
     env = "production"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
