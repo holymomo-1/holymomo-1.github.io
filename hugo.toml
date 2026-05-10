@@ -1,0 +1,7 @@
+baseURL = 'https://holymomo-1.github.io/'
+languageCode = 'zh-tw'
+title = '股癌知識庫'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "auto" # 會自動跟隨系統切換深色/淺色模式
